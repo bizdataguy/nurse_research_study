@@ -1,4 +1,4 @@
-# nurse_research_study
+# nurse resaerch study
 
 ## Project Details
 ### Purpose of Study
@@ -32,3 +32,5 @@ b.	 Categorical: categories and count
 3.	Chi-Square: test for independence
 ### Result
 2019 unit is associated with current unit, meaning there are patterns where nurses go from one unit to another (See 3.2.2 Where Did the Nurses go?). The result also shows that changes in license type, changes in salary and level of years in profession are associated with job change and unit change.
+### Notes
+Additional Analyses are done. Codes and results are stored in other documnetation. I may uplaod here later.
