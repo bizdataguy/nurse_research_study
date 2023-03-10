@@ -25,9 +25,9 @@ h.	Along with other basic calculations
 5.	Removing rows that jobs change is “Yes”, and total job changes is 0
 6.	Converting categorical variables to category
 ### Analysis
-1.	Descriptive \n 
-  a.	 Continuous: correlation & histogram \n 
-  b.	 Categorical: categories and count
+1.	Descriptive
+a.	 Continuous: correlation & histogram
+b.	 Categorical: categories and count
 2.	EDA
 3.	Chi-Square: test for independence
 ### Result
