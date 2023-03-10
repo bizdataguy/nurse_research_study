@@ -26,8 +26,8 @@ h.	Along with other basic calculations
 6.	Converting categorical variables to category
 ### Analysis
 1.	Descriptive
-  o	Continuous: correlation & histogram
-  o	Categorical: categories and count
+  a.	 Continuous: correlation & histogram
+  b.	 Categorical: categories and count
 2.	EDA
 3.	Chi-Square: test for independence
 ### Result
