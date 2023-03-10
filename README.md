@@ -1,5 +1,7 @@
 # nurse resaerch study
 
+## Survey data was process to elimination any personal data
+
 ## Project Details
 ### Purpose of Study
 Nursing shortage and turnover have been the major challenges in the healthcare industry. Many research studies have investigated the intention in terms of the factors that cause turnover and shortage with the purpose of helping healthcare administrators understand the root cause of the nurse turnover phenomenon in order to be better prepared for the ongoing challenge in nurse staffing. This research aims to study nurses’ behavior towards turnover and shortage based on the survey data, which intends to answer questions such as: “Where did the acute nurses go? Did they quit nursing care, leave for another position within the organization or leave for another position outside of the organization?”
