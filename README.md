@@ -25,10 +25,10 @@ h.	Along with other basic calculations
 5.	Removing rows that jobs change is “Yes”, and total job changes is 0
 6.	Converting categorical variables to category
 ### Analysis
-i.	Descriptive
-o	Continuous: correlation & histogram
-o	Categorical: categories and count
-ii.	EDA
-iii.	Chi-Square: test for independence
+1.	Descriptive
+  o	Continuous: correlation & histogram
+  o	Categorical: categories and count
+2.	EDA
+3.	Chi-Square: test for independence
 ### Result
 2019 unit is associated with current unit, meaning there are patterns where nurses go from one unit to another (See 3.2.2 Where Did the Nurses go?). The result also shows that changes in license type, changes in salary and level of years in profession are associated with job change and unit change.
